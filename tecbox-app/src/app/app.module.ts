@@ -9,7 +9,7 @@ import {HttpClientModule} from "@angular/common/http";
 import {TecBoxMaterialModule} from "./module/tec-box-material.module";
 import {MatNativeDateModule} from "@angular/material";
 import {TecBoxRoutingModule} from "./module/tec-box-routing.module";
-import {Component1Component} from "./component1/component1.component";
+import {SomeDataComponent} from "./somedata/some-data.component";
 import {Component2Component} from "./component2/component2.component";
 import {Component3Component} from "./component3/component3.component";
 
@@ -19,7 +19,7 @@ import {Component3Component} from "./component3/component3.component";
   declarations: [
     AppComponent,
     SidenavComponent,
-    Component1Component,
+    SomeDataComponent,
     Component2Component,
     Component3Component
   ],
