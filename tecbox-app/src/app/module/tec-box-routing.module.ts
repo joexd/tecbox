@@ -8,7 +8,7 @@ import {Component3Component} from "../component3/component3.component";
 
 const appRoutes: Routes = [
   {
-    path: 'somedata',
+    path: 'simpleRestCall',
     component: SomeDataComponent
   },
   {

@@ -3,7 +3,7 @@ import {SomeDataService} from "../service/some-data.service";
 import {SomeData} from "../model/some-data";
 
 @Component({
-  selector: 'app-component1',
+  selector: 'simpleRestCall',
   templateUrl: './some-data.component.html',
   styleUrls: ['./some-data.component.scss']
 })
